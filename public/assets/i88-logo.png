@@ -1,0 +1,5 @@
+<motion.img
+  src="/assets/i88-logo.png"
+  alt="i88 Official Logo"
+  className="w-80 md:w-[520px] h-auto"
+/>
